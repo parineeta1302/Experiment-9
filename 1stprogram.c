@@ -15,4 +15,5 @@ int main() {
         printf("Student is not allowed to sit in the exam.\n");
     }
     return 0;
+    ///...///
 }
